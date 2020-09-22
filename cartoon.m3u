@@ -42,13 +42,14 @@ http://f.ok2.se:8000/victor1/victor123/7498
 http://f.ok2.se:8000/victor1/victor123/9976
 #EXTINF:-1,Disney
 http://103.47.132.164/PLTV/88888888/224/3221227183/1.m3u8
-#EXTINF:83 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="KIDS", NICK JR
+
+#EXTINF:83 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="CARTOON", NICK JR
 http://85.203.33.205:8080/aF416sLqb138/ihO0g177/27456
-#EXTINF:84 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="KIDS", DISNEY CHANNEL
+#EXTINF:84 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="CARTOON", DISNEY CHANNEL
 http://85.203.33.205:8080/aF416sLqb138/ihO0g177/22823
-#EXTINF:85 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="KIDS", DISNEY JUNIOR
+#EXTINF:85 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="CARTOON", DISNEY JUNIOR
 http://85.203.33.205:8080/aF416sLqb138/ihO0g177/18065
-#EXTINF:86 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="KIDS", DISNEY XD
+#EXTINF:86 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="CARTOON", DISNEY XD
 http://203.150.107.30:8081/tested2iptv/core107/playlist.m3u8
-#EXTINF:89 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="KIDS", CARTOON NETWORK (US)
+#EXTINF:89 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="CARTOON", CARTOON NETWORK (US)
 http://85.203.33.5:8080/l63rJxz784/VQCXmb940/13103
