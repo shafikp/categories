@@ -1,29 +1,71 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="ENTERTAINMENT",SONY HD VIP
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in.m3u8
-#EXTINF:-1 ,sony HD vip
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index.m3u8
-#EXTINF:-1 ,sony HD2 vip
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index_dvr.m3u8
-#EXTINF:-1 ,sony sab HD vip
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
-#EXTINF:-1,Star Plus HD 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="ENTERTAINMENT",star gold
+http://randomserver.site:2086/999999999/999999999/94663
+#EXTINF:-1,STAR GOLD 4K
+http://185.8.176.227:25461/strtester/ap8s9ndf709a8/56
+#EXTINF:-1,Star gold 
+http://randomserver.site:2086/999999999/999999999/94775
+#EXTINF:-1,Star gold select
+http://randomserver.site:2086/999999999/999999999/94776
+#EXTINF:-1,Star gold select hd
+http://195.181.169.129/star_gold_Select-Hin/tracks-v1a2/mono.m3u8
+#EXTINF:-1,Star bharat HD
+http://randomserver.site:2086/999999999/999999999/91833
+#EXTINF:-1,Star bharat
+http://randomserver.site:2086/999999999/999999999/94673
+#EXTINF:-1,Star Plus HD
+http://195.181.169.129/StarPlusASIA-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star PLUS FHD
 http://randomserver.site:2086/999999999/999999999/91828
-#EXTINF:-1,STAR PLUS HDd
-http://185.8.176.227:25461/strtester/ap8s9ndf709a8/29
-#EXTINF:-1,Colors HD
-http://randomserver.site:2086/999999999/999999999/91887
-#EXTINF:-1,ZEE TV UK
-http://z5amshls.akamaized.net/apacsea/tracks-v1a1/playlist.m3u8
-EXTINF:-1, ZEWORLD
-http://z5amshls.akamaized.net/world/tracks-v1a1/index.m3u8
-#EXTINF:-1,And TV HD
-http://randomserver.site:2086/999999999/999999999/94738
-#EXTINF:-1,ZEE TV (UK) (IN)
-http://f.ok2.se:8000/victor1/victor123/2176
-#EXTINF:-1,ZEE TV HD (IN)
-http://f.ok2.se:8000/victor1/victor123/8706
-#EXTINF:-1,&TV SD (NA)
-http://ok2.se:8000/superman/12345/3885
+#EXTINF:-1,Star Plus HDD
+http://randomserver.site:2086/999999999/999999999/94679
+#EXTINF:-1,STAR PLUS HD
+http://randomserver.site:2086/999999999/999999999/94678
+
+
+#EXTINF:-1,STAR MOVIES SELECT HD
+http://randomserver.site:2086/999999999/999999999/94828
+#EXTINF:-1,STAR WORLD PREMIERE HD
+http://randomserver.site:2086/999999999/999999999/94826
+
+
+
+
+#EXTINF:-1,STAR SPORTS HINDI
+http://f.ok2.se:8000/Fonzi/Fonzi/201
+#EXTINF:0,STAR SPORTS HINDI best
+http://ok2.se:8000/victor1/victor123/201
+
+
+
+
+#EXTINF:-1,MAA GOLD
+http://randomserver.site:2086/999999999/999999999/94752
+#EXTINF:-1,MAA HD
+http://randomserver.site:2086/999999999/999999999/94753
+#EXTINF:-1,MAA MOVIES
+http://randomserver.site:2086/999999999/999999999/94754
+#EXTINF:-1,STAR SUVARNA
+http://randomserver.site:2086/999999999/999999999/94811
+#EXTINF:-1,STAR VIJAY FHD BEST
+http://uk4.zecast.com:1935/star-live/vijayhd1/playlist.m3u8
+#EXTINF:-1,STAR VIJAY HD
+http://randomserver.site:2086/999999999/999999999/94791
+#EXTINF:-1,STAR VIJAY SUPER
+http://randomserver.site:2086/999999999/999999999/94807
+#EXTINF:-1,JALSA MOVIES FHD
+http://randomserver.site:2086/999999999/999999999/94751
+#EXTINF:-1,STAR JALSA HD
+http://randomserver.site:2086/999999999/999999999/94777
+#EXTINF:-1,ASIANET HD
+http://randomserver.site:2086/999999999/999999999/94739
+#EXTINF:-1,ASIANET MOVIES HD
+http://randomserver.site:2086/999999999/999999999/94829
+#EXTINF:-1,ASIANET PLUS HD
+http://randomserver.site:2086/999999999/999999999/94827
+#EXTINF:-1,STAR PRAVAH HD
+http://randomserver.site:2086/999999999/999999999/94779
+
