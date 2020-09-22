@@ -1,21 +1,58 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU" group-title="IPL 2020 SPECIAL COVERAGE",IPL SKY
-https://cdn.sha-256.org/2022631336/dkzmYLenTq/1609
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",IPL SKY ONE
+#EXTINF:0,tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="SPORTS",sky CRICKET
+http://f.ok2.se:8000/Fonzi/Fonzi/205
+#EXTINF:-1,SKY SPORTS CRICKET
+http://f.ok2.se:8000/victor1/victor123/205
+#EXTINF:-1,WWE HD
+http://66.northerniptv.ca:8000/golden123/golden123/168
+#EXTINF:-1,BT SPORTS 1 HD
+http://66.northerniptv.ca:8000/golden123/golden123/225
+#EXTINF:-1,BT SPORTS 2 HD
+http://66.northerniptv.ca:8000/golden123/golden123/226
+#EXTINF:-1,BT SPORTS 3 HD
+http://66.northerniptv.ca:8000/golden123/golden123/232
+#EXTINF:-1,SKY SPORTS CRICKET
 http://66.northerniptv.ca:8000/golden123/golden123/205
+#EXTINF:-1,SKY CRIC b
+https://cdn.sha-256.org/2022631336/dkzmYLenTq/1609
+#EXTINF:-1,SKY CRIC d
+https://cdn.sha-256.org/2022631336/dkzmYLenTq/666269
+#EXTINF:-1,WILLOW CRICKET HD
+http://66.northerniptv.ca:8000/golden123/golden123/198
+#EXTINF:-1,WILLOW XTRA HD
+http://66.northerniptv.ca:8000/golden123/golden123/9630
+#EXTINF:-1,WILLOW CRICKET HD
+http://f.ok2.se:8000/Fonzi/Fonzi/198
+#EXTINF:0,WILLOW CRICKET HD
+http://ok2.se:8000/victor1/victor123/198
+#EXTINF:-1,WILLOW XTRA HD
+http://f.ok2.se:8000/Fonzi/Fonzi/9630
+#EXTINF:0,WILLOW XTRA HD
+http://ok2.se:8000/victor1/victor123/9630
+#EXTINF:0,SPORTS MAX CRICKET (JAMAICA)
+http://ok2.se:8000/victor1/victor123/82904
+#EXTINF:-1,SPORTSMAX cricket
+http://f.ok2.se:8000/Fonzi/Fonzi/84259
+#EXTINF:-1,SPORTSMAX CRICKET JAMAICA
+http://66.northerniptv.ca:8000/golden123/golden123/84259
+#EXTINF:-1,ADs sports cricket
+http://212.47.252.54/hls/stream.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL SUPER
-http://66.northerniptv.ca:8000/golden123/golden123/81947
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL SUPER1
-http://randomserver.site:2086/999999999/999999999/90482
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL SUPER
-http://f.ok2.se:8000/victor1/victor123/81947
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL BEIN
-http://66.northerniptv.ca:8000/golden123/golden123/74478
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL BEIN1
-http://85.203.33.33:80/zd8y3PI691/FKcsZM020/21517
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL BEIN2
-http://randomserver.site:2086/999999999/999999999/66784
+
+#EXTINF:-1,STAR SPORTS HINDI
+http://66.northerniptv.ca:8000/golden123/golden123/201
+#EXTINF:0,STAR SPORTS HINDI best
+http://ok2.se:8000/victor1/victor123/201
+#EXTINF:-0,Star Sports Select 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
+#EXTINF:-0,Star Sports Select 2 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
+#EXTINF:-0,Star Sports 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8
+#EXTINF:-0,Star Sports Select 1 HD
+http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
+#EXTINF:-0,Star Sports Select 2 HD
+http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
