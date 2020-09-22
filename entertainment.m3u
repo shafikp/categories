@@ -1,21 +1,29 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU" group-title="IPL 2020 SPECIAL COVERAGE",IPL SKY
-https://cdn.sha-256.org/2022631336/dkzmYLenTq/1609
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",IPL SKY ONE
-http://66.northerniptv.ca:8000/golden123/golden123/205
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL SUPER
-http://66.northerniptv.ca:8000/golden123/golden123/81947
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL SUPER1
-http://randomserver.site:2086/999999999/999999999/90482
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL SUPER
-http://f.ok2.se:8000/victor1/victor123/81947
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL BEIN
-http://66.northerniptv.ca:8000/golden123/golden123/74478
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL BEIN1
-http://85.203.33.33:80/zd8y3PI691/FKcsZM020/21517
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL BEIN2
-http://randomserver.site:2086/999999999/999999999/66784
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="ENTERTAINMENT",SONY HD VIP
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in.m3u8
+#EXTINF:-1 ,sony HD vip
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index.m3u8
+#EXTINF:-1 ,sony HD2 vip
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index_dvr.m3u8
+#EXTINF:-1 ,sony sab HD vip
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
+#EXTINF:-1,Star Plus HD 
+http://randomserver.site:2086/999999999/999999999/91828
+#EXTINF:-1,STAR PLUS HDd
+http://185.8.176.227:25461/strtester/ap8s9ndf709a8/29
+#EXTINF:-1,Colors HD
+http://randomserver.site:2086/999999999/999999999/91887
+#EXTINF:-1,ZEE TV UK
+http://z5amshls.akamaized.net/apacsea/tracks-v1a1/playlist.m3u8
+EXTINF:-1, ZEWORLD
+http://z5amshls.akamaized.net/world/tracks-v1a1/index.m3u8
+#EXTINF:-1,And TV HD
+http://randomserver.site:2086/999999999/999999999/94738
+#EXTINF:-1,ZEE TV (UK) (IN)
+http://f.ok2.se:8000/victor1/victor123/2176
+#EXTINF:-1,ZEE TV HD (IN)
+http://f.ok2.se:8000/victor1/victor123/8706
+#EXTINF:-1,&TV SD (NA)
+http://ok2.se:8000/superman/12345/3885
