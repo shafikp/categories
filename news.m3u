@@ -1,21 +1,45 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU" group-title="IPL 2020 SPECIAL COVERAGE",IPL SKY
-https://cdn.sha-256.org/2022631336/dkzmYLenTq/1609
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",IPL SKY ONE
-http://66.northerniptv.ca:8000/golden123/golden123/205
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi" tvg-logo="https://i.imgur.com/dyoXd9c.png" tvg-country="IN" tvg-url="" group-title="NEWS",AAJTAK HD
+http://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
+#EXTINF:-1 ,aajtak sd
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 ,REPUBLIC BHARAT
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/republicbharat/republicbharat.isml/republicbharat-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1,Republic TV
+http://iptv.mirrorace.net/?channelid=858
+#EXTINF:0,aajtaak hd 
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:0,ABP News 
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL SUPER
-http://66.northerniptv.ca:8000/golden123/golden123/81947
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL SUPER1
-http://randomserver.site:2086/999999999/999999999/90482
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL SUPER
-http://f.ok2.se:8000/victor1/victor123/81947
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL BEIN
-http://66.northerniptv.ca:8000/golden123/golden123/74478
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL BEIN1
-http://85.203.33.33:80/zd8y3PI691/FKcsZM020/21517
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL BEIN2
-http://randomserver.site:2086/999999999/999999999/66784
+#EXTINF:-1,FOX NEWS
+https://fncgohls-i.akamaihd.net/hls/live/263399-b/FNCGOHLSv2/Fox_News_v2_VIDEO_2_664000.m3u8
+#EXTINF:-1 ,DW ENGLISH
+http://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in_720p/index.m3u8
+#EXTINF:-1 ,austrlian channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1,CNBC Europe
+http://ott-cdn.ucom.am/s65/index.m3u8?fluxustv.m3u8
+#EXTINF:-1,Bloomberg
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1,France24
+https://fvtv.mywire.org/playlist/qtcefdxskk-0f6qxm4w5x.m3u8|Referer=https://www.youtube.com
+#EXTINF:-1,RT
+https://fvtv.mywire.org/playlist/emnak73qtc-y3xws9ka64.m3u8|Referer=https://www.youtube.com
+#EXTINF:-1,Sky News
+https://fvtv.mywire.org/playlist/aeukxvsxen-6zzdxf31bw.m3u8|Referer=https://www.youtube.com
+#EXTINF:-1,TRT World
+https://fvtv.mywire.org/playlist/apscydm0ca-dy3etwbmsq.m3u8
+#EXTINF:-1,Al Jazeera
+https://fvtv.mywire.org/playlist/62bzb5mjt3-vd1ycapt2f.m3u8
+#EXTINF:-1,Arirang TV
+https://fvtv.mywire.org/playlist/hc2ewfesdu-skkzbbp3rh.m3u8
+#EXTINF:-1,NHK World Japan
+https://fvtv.mywire.org/playlist/a4z6rfa20y-ef21kjprvd.m3u8
+#EXTINF:-1,RT Documentary
+http://ott-cdn.ucom.am/s93/index.m3u8?fluxustv.m3u8
+
