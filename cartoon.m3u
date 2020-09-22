@@ -1,21 +1,54 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU" group-title="IPL 2020 SPECIAL COVERAGE",IPL SKY
-https://cdn.sha-256.org/2022631336/dkzmYLenTq/1609
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",IPL SKY ONE
-http://66.northerniptv.ca:8000/golden123/golden123/205
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="CARTOON",shemaroo kids
+http://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+#EXTINF:-1,NICK JR
+http://randomserver.site:2086/999999999/999999999/94184
+#EXTINF:-1,NICKELODEON
+http://randomserver.site:2086/999999999/999999999/94185
+#EXTINF:-1,DISNEY HD 
+http://randomserver.site:2086/999999999/999999999/91869
+#EXTINF:-1,CARTOON NETWORK
+http://randomserver.site:2086/999999999/999999999/91891
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL SUPER
-http://66.northerniptv.ca:8000/golden123/golden123/81947
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL SUPER1
-http://randomserver.site:2086/999999999/999999999/90482
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL SUPER
-http://f.ok2.se:8000/victor1/victor123/81947
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL BEIN
-http://66.northerniptv.ca:8000/golden123/golden123/74478
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL BEIN1
-http://85.203.33.33:80/zd8y3PI691/FKcsZM020/21517
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL BEIN2
-http://randomserver.site:2086/999999999/999999999/66784
+#EXTINF:0,CBeebies
+http://51.52.156.22:8888/http/003
+#EXTINF:0,Pop UK
+https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
+#EXTINF:0,POP Max
+https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
+#EXTINF:0,Nick
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,Nick Jr
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,Tiny Pop
+https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
+#EXTINF:-1,SONY YAyyyy
+https://bit.ly/2WmsoNYYaY
+#EXTINF:-1,NICKELODEON HD
+http://f.ok2.se:8000/victor1/victor123/394
+#EXTINF:-1,CARTOON NETWORK HD
+http://f.ok2.se:8000/victor1/victor123/395
+#EXTINF:-1,FAMILY HD
+http://f.ok2.se:8000/victor1/victor123/396
+#EXTINF:-1,DISNEY XD HD
+http://f.ok2.se:8000/victor1/victor123/397
+#EXTINF:-1,DISNEY
+http://f.ok2.se:8000/victor1/victor123/7804
+#EXTINF:-1,DUCK TALES non stop
+http://f.ok2.se:8000/victor1/victor123/7498
+#EXTINF:-1,SPIDERMAN non stop
+http://f.ok2.se:8000/victor1/victor123/9976
+#EXTINF:-1,Disney
+http://103.47.132.164/PLTV/88888888/224/3221227183/1.m3u8
+#EXTINF:83 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="KIDS", NICK JR
+http://85.203.33.205:8080/aF416sLqb138/ihO0g177/27456
+#EXTINF:84 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="KIDS", DISNEY CHANNEL
+http://85.203.33.205:8080/aF416sLqb138/ihO0g177/22823
+#EXTINF:85 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="KIDS", DISNEY JUNIOR
+http://85.203.33.205:8080/aF416sLqb138/ihO0g177/18065
+#EXTINF:86 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="KIDS", DISNEY XD
+http://203.150.107.30:8081/tested2iptv/core107/playlist.m3u8
+#EXTINF:89 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="KIDS", CARTOON NETWORK (US)
+http://85.203.33.5:8080/l63rJxz784/VQCXmb940/13103
